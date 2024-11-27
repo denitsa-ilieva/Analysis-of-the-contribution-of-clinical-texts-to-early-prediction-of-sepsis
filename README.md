@@ -1,4 +1,4 @@
-#Masterthesis: Analysis-of-the-contribution-of-clinical-texts-to-early-prediction-of-sepsis
+#Masterthesis-Analysis-of-the-contribution-of-clinical-texts-to-early-prediction-of-sepsis
 Abstract:
 Sepsis is a life-threatening condition characterized by the body’s immune response
 to infection, leading to organ failure and mortality. Early detection and prediction
